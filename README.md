@@ -18,10 +18,10 @@ El repositorio alberga un script en Bash para la administración de usuarios en 
 
 - Listado de Extensiones: Además, el sistema creará un listado de extensiones telefónicas de los usuarios, mostrando apellidos, nombre, extensión y departamento.
 
-- Este repositorio es una herramienta esencial para simplificar y agilizar el proceso de alta de usuarios en sistemas Unix/Linux, brindando automatización y organización a la administración de cuentas de usuario.
+#### [Script](https://github.com/oscarjuly23/Script_Bash/blob/main/NewUsers.sh)
 
 ## 
-Esta descripción resalta las características clave de tu repositorio y cómo el script en Bash puede ser útil para la administración de usuarios en sistemas Unix/Linux. No dudes en adaptarla según tus preferencias y subirla a tu repositorio en GitHub.
+Este script es una herramienta esencial para simplificar y agilizar el proceso de alta de usuarios en sistemas Unix/Linux, brindando automatización y organización a la administración de cuentas de usuario.
 
 
 
